@@ -1,0 +1,44 @@
+* {
+	
+	box-sizing: border-box;
+}
+
+
+body {
+    max-width: 800px;
+    min-width: 550px;
+    margin-left: auto;
+    margin-right: auto;
+    background:#e6ffcc;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* help with making image full screen from W3 Schools */
+    /* all colors from W3 Schools' color picker */
+    
+    color: #006600;
+    font-family: Georgia, Times, serif;
+    
+}
+
+h2 {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.paragraph {
+    float: left;
+    width: 48%;
+    padding: 25px;
+    box-sizing: border-box;
+    
+}
+
+.image {
+    float: right;
+    width: 48%;
+    padding: 25px;
+    box-sizing: border-box;
+    
+}

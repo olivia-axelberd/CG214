@@ -1,0 +1,74 @@
+
+* {
+	
+	box-sizing: border-box;
+}
+
+
+body {
+    max-width: 800px;
+    min-width: 550px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url(http://premierscrapbookdesign.com/wp-content/uploads/2016/08/free-mint-scrapbooking-papers-free-pretty-things-for-you-8.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    color: #002266;
+    font-family: Georgia, Times, serif;
+    
+}
+
+h1 {
+    text-align: center;
+}
+
+.picture1 {
+    float: left;
+    width: 48%;
+    padding: 25px;
+    box-sizing: border-box;
+    
+}
+
+
+.picture2 {
+    float: right;
+    width: 48%;
+    padding: 25px;
+    box-sizing: border-box;
+
+}
+
+.picture3 {
+    float: left;
+    width: 48%;
+    padding: 25px;
+    box-sizing: border-box;
+}
+
+
+.picture4 {
+    float: right;
+    width: 48%;
+    padding: 25px;
+    box-sizing: border-box;
+}
+
+
+.picture5 {
+    float: left;
+    width: 48%;
+    padding: 25px;
+    box-sizing: border-box;
+}
+
+
+.picture6 {
+    float: right;
+    width: 48%;
+    padding: 25px;
+    box-sizing: border-box;
+}

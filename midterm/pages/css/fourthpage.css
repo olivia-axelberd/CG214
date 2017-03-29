@@ -1,0 +1,42 @@
+* {
+	
+	box-sizing: border-box;
+}
+
+body {
+    max-width: 800px;
+    min-width: 550px;
+    margin-left: auto;
+    margin-right: auto;
+    background:#b3f0ff;
+    
+    color: #007a99;
+    font-family: Georgia, Times, serif;
+    
+}
+
+h2 {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.paragraph {
+    float: left;
+    width: 48%;
+    padding: 25px;
+    box-sizing: border-box;
+    
+}
+
+.image {
+    float: right;
+    width: 48%;
+    padding: 25px;
+    box-sizing: border-box;
+    
+}
+
+
+/* I wanted to move the audio over so it aligned with te image but I was not sure how. */
+
+/* help for all columns taken from class code examples */

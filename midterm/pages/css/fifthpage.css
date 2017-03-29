@@ -1,0 +1,36 @@
+* {
+	
+	box-sizing: border-box;
+}
+
+body {
+    max-width: 800px;
+    min-width: 550px;
+    margin-left: auto;
+    margin-right: auto;
+    background:#ffbf80;
+    
+    color: #cc6600;
+    font-family: Georgia, Times, serif;
+    
+}
+
+h2 {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.image1 {
+    width: 450px;
+    height: 350px;
+    margin: 0 auto 0 auto
+    
+}
+
+.image2 {
+     width: 450px;
+    height: 350px;
+    margin: 0 auto 0 auto
+    
+}
+
