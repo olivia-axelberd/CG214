@@ -1,0 +1,16 @@
+body {
+    background-color: #a9d1c6;
+    width: 90%;
+    max-width: 700px;
+    min-width: 500px;
+    margin: 0 auto;
+    font-family: 'Open Sans Condensed', sans-serif;
+    letter-spacing: .05em;
+    
+}
+
+.text {
+    position: relative;
+    margin-top: 200px;
+    
+}

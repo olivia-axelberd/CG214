@@ -1,0 +1,49 @@
+body {
+  width: 90%;
+  max-width: 350px;
+  min-width: 350px;
+  margin: 0 auto;
+  background-color: #cce2e0;
+  font-family: 'Open Sans Condensed', sans-serif;
+    
+}
+
+#healing {
+    position: relative;
+    margin-top: 65px;    
+}
+
+.container {
+  position: relative;
+  width: 100%;
+}
+
+
+.text {
+  white-space: nowrap; 
+  color: darkgrey;
+  font-size: 20px;
+  position: absolute;
+  overflow: hidden;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+}
+
+.overlay1 {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: azure;
+}
+
+.container:hover .overlay1 {
+  opacity: 1;
+}

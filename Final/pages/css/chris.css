@@ -1,0 +1,16 @@
+body {
+    background-color: #cce2e0;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 50px;
+}
+
+.text {
+    position: relative;
+    max-width: 100px;
+    margin-left: 570px;
+}
+
+.container {
+  position: relative;
+  width: 200%;
+}

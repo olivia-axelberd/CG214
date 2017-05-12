@@ -1,0 +1,46 @@
+body {
+  width: 90%;
+  max-width: 900px;
+  min-width: 500px;
+  margin: 0 auto;
+  background-color: #a9d1c6;
+}
+
+.about {
+    max-width: 50px;
+    position: relative;
+    margin-left: 1010px;
+    margin-top: 120px;
+  
+}
+
+.about:hover {
+            -webkit-filter: blur(5px); /* Safari 6.0 - 9.0 */
+    filter: blur(1px);
+    transition: 1s ease;
+}
+
+button {
+    color: darkgrey;
+    background: #cce2e0;
+    border-style: none;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 25px;
+
+}
+
+.names {
+    position: relative;
+    margin-top: 220px;
+}
+
+.circle {
+    width: 222px;
+    height: 222px;
+    object-fit: cover;
+}
+
+.circle:hover{
+    border-radius: 50%;
+    transition: .2s ease-in-out;
+}
